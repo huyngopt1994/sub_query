@@ -1,4 +1,4 @@
-import {SubstrateBlock, SubstrateEvent, SubstrateExtrinsic} from "@subql/types";
+import {SubstrateBlock} from "@subql/types";
 import {StarterEntity} from "../types";
 
 
